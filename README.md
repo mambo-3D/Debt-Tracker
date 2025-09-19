@@ -22,6 +22,6 @@ Deni is a **Python Tkinter app** that helps you manage **income, expenses, debts
 Clone the repo and install requirements:
 
 
-git clone https://github.com/YOUR-USERNAME/deni-debt-tracker.git
+git clone https://github.com/mambo-3D/deni-debt-tracker.git
 cd deni-debt-tracker
 pip install customtkinter
